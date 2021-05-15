@@ -9,7 +9,17 @@
 
 
 ### Connect with me:
-[<img align="left" alt="khoado | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<p align="center">
+    <a href="https://www.binu.live" alt="portfolio">
+        <img src="https://img.shields.io/badge/Portfolio-Binu42-brightgreen.svg" />
+    </a>&emsp;
+    <a href="https://www.linkedin.com/in/paritosh-dadhich-391800174/" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/-ParitoshDadhich-blue?style=social&logo=Linkedin&logoColor=blue" />
+    </a>&emsp;
+    <a href="mailto:paritosh.dadhich99@gmail.com" alt="LinkedIn">
+        <img src="https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red" />
+    </a>
+</p>
 
 <br />
 
