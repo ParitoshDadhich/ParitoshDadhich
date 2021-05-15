@@ -10,9 +10,6 @@
 
 ### Connect with me:
 <p align="center">
-    <a href="https://www.binu.live" alt="portfolio">
-        <img src="https://img.shields.io/badge/Portfolio-Binu42-brightgreen.svg" />
-    </a>&emsp;
     <a href="https://www.linkedin.com/in/paritosh-dadhich-391800174/" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-ParitoshDadhich-blue?style=social&logo=Linkedin&logoColor=blue" />
     </a>&emsp;
