@@ -23,10 +23,7 @@ I've worked as a Teaching Assistant at Coding Ninjas India. I also worked as a C
     <a href="https://pdadhich0481.medium.com/" alt="Medium">
         <img src="https://img.shields.io/badge/-Paritosh Dadhich-blue?style=social&logo=Medium&logoColor=black" />
     </a>&emsp;
-  
 </p>
-
-<br />
 
 ---
 ### Languages and Tools:
