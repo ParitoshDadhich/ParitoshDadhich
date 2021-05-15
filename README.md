@@ -12,9 +12,7 @@ I've worked as a Teaching Assistant at Coding Ninjas India. I also worked as a C
 * 📝 I seldom write articles on [Medium](https://pdadhich0481.medium.com/)
 * 😄 Pronouns: He/His
 * ⚡ Fun fact: I love to dance and listen to music :)
-
 ---
-
 ### Connect with me:
 <p align="center">
     <a href="https://www.linkedin.com/in/paritosh-dadhich-391800174/" alt="LinkedIn">
