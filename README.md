@@ -26,6 +26,7 @@ I've worked as a Teaching Assistant at Coding Ninjas India. I also worked as a C
 </p>
 
 <br />
+
 ---
 ### Languages and Tools:
 
