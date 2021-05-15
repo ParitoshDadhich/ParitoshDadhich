@@ -8,9 +8,9 @@ I've worked as a Teaching Assistant at Coding Ninjas India. I also worked as a C
 ## I'm a third-year Computer Science Undergraduate!
 
 * 🔭 I’m currently looking for a new opportunity as a Software Developer!
-* 💬 Ask me about Java, Problem solving, Web Development and tech-related stuff!
+* 💬 Would be interested to talk about Java, JavaScript, Problem solving, Web Development and tech-related stuff!
 * 😄 Pronouns: He/His
-* ⚡ Fun fact: I love to dance and listen to music
+* ⚡ Fun fact: I love to dance and listen to music :)
 
 
 ### Connect with me:
