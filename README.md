@@ -9,6 +9,7 @@ I've worked as a Teaching Assistant at Coding Ninjas India. I also worked as a C
 
 * 🔭 I’m currently looking for a new opportunity as a Software Developer!
 * 💬 Would be interested to talk about Java, JavaScript, Problem solving, Web Development and tech-related stuff!
+* 📝 I seldom write articles on [Medium](https://pdadhich0481.medium.com/)
 * 😄 Pronouns: He/His
 * ⚡ Fun fact: I love to dance and listen to music :)
 
