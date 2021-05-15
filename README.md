@@ -42,6 +42,8 @@ I've worked as a Teaching Assistant at Coding Ninjas India. I also worked as a C
 
  
  
+ 
+<br />
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParitoshDadhich&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
  
