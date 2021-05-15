@@ -4,14 +4,12 @@
 
 * 🔭 I’m currently looking for a new opportunity as a Software Developer!
 * 💬 Ask me about Java, Problem solving, Web Development and tech-related stuff!
-* 📫 How to reach me: LinkedIn: [@paritosh](https://www.linkedin.com/in/paritosh-dadhich-391800174/) Stack Overflow: [@paritosh_dadhich](https://stackoverflow.com/users/14574152/paritosh-dadhich?tab=profile)
 * 😄 Pronouns: He/His
 * ⚡ Fun fact: I love to dance and listen to music
 
 
 ### Connect with me:
 [<img align="left" alt="khoado | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="khoado | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][email]
 
 <br />
 
@@ -38,5 +36,5 @@
 <img align="left" alt="Paritosh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ParitoshDadhich&show_icons=true&hide_border=true" />
 
 
-[gmail]: paritosh.dadhich99@gmail.com
+ 
 [linkedin]: https://www.linkedin.com/in/paritosh-dadhich-391800174/
