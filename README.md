@@ -46,7 +46,7 @@ I've worked as a Teaching Assistant at Coding Ninjas India. I also worked as a C
 
 ---
 
-<img align="left" alt="Paritosh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ParitoshDadhich&show_icons=true&hide_border=true" />
+ 
 
 
  
