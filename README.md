@@ -49,6 +49,16 @@ I've worked as a Teaching Assistant at Coding Ninjas India. I also worked as a C
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParitoshDadhich&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
+```text
+Monday       40 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.87% 
+Tuesday      37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.98% 
+Wednesday    71 commits     █████░░░░░░░░░░░░░░░░░░░░   21.07% 
+Thursday     9 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.67% 
+Friday       20 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.93% 
+Saturday     64 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.99% 
+Sunday       96 commits     ███████░░░░░░░░░░░░░░░░░░   28.49%
+
+```
 
  
 [linkedin]: https://www.linkedin.com/in/paritosh-dadhich-391800174/
