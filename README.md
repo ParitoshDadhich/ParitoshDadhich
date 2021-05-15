@@ -50,6 +50,15 @@ I've worked as a Teaching Assistant at Coding Ninjas India. I also worked as a C
 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParitoshDadhich&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
  
+ ---
+ 
+ ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 23px> My Latest Blog posts:
+<!-- BLOG-POST-LIST:START -->
+- [Recursion](https://medium.com/star-gazers/recursion-is-easy-6102af8af53f)
+- [Why students should learn to program and how they can learn](https://pdadhich0481.medium.com/why-students-should-learn-to-program-and-how-they-can-learn-3f7215e28f92)
+- [Significance of Open Source](https://medium.com/girlscript-bangalore/open-source-c870b6a176eb)
+<!-- BLOG-POST-LIST:END -->
+
 
  
 [linkedin]: https://www.linkedin.com/in/paritosh-dadhich-391800174/
