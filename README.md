@@ -13,6 +13,7 @@ I've worked as a Teaching Assistant at Coding Ninjas India. I also worked as a C
 * 😄 Pronouns: He/His
 * ⚡ Fun fact: I love to dance and listen to music :)
 
+---
 
 ### Connect with me:
 <p align="center">
