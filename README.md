@@ -1,5 +1,13 @@
 ### Hey there, I'm Paritosh Dadhich! 👋
 
+I’m <b>[Binu Kumar](https://www.binu.live)</b>. I am a <b>Full Stack Developer</b> from India :india:. I have <b>1+ years</b> of experience working in the software engineering domain. I have contributed to open source projects like <b><a href="https://github.com/covid19india/covid19india-react">covid19India</a></b>, <b><a href="https://github.com/Hacker0x01/react-datepicker">react-datepicker</a></b>, <b><a href="https://github.com/bradtraversy/design-resources-for-developers">bradtraversy/design-resources-for-developers</a></b>.
+
+I'm a Tech Enthusiastic, Coder, Content Writer, Social Worker, Motivator, and Mentor student for improving their skill sets. I have good knowledge of Data Structures & Algorithms and computer science core subjects.
+I believe choices make us who we are.
+
+I'm a third-year Computer Science undergraduate who likes to work as a Software Developer and contribute his skills and knowledge. I'm a Content Writer and was working as a Teaching Assistant at Coding Ninjas India. I also worked as a Campus Ambassador at Coding Ninjas India and a Transition Readiness - Academic Support Volunteer at Make A Difference.
+
+
 ## I'm a third-year Computer Science Undergraduate!
 
 * 🔭 I’m currently looking for a new opportunity as a Software Developer!
@@ -13,9 +21,6 @@
     <a href="https://www.linkedin.com/in/paritosh-dadhich-391800174/" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-ParitoshDadhich-blue?style=social&logo=Linkedin&logoColor=blue" />
     </a>&emsp;
-    <a href="mailto:paritosh.dadhich99@gmail.com" alt="LinkedIn">
-        <img src="https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red" />
-    </a>
 </p>
 
 <br />
