@@ -1,7 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=ParitoshDadhich&style=flat-square)
-
-
+![](https://komarev.com/ghpvc/?username=ParitoshDadhich&style=plastic)
 ### Hi there 👋 :pray: 
 
 I’m <b>[Paritosh Dadhich](https://www.linkedin.com/in/paritosh-dadhich-391800174/)</b> a Tech Enthusiastic, Coder, Technical - Content Writer, Social Worker, Motivator, and Mentor student for improving their skill sets. I have good knowledge of Data Structures & Algorithms and computer science core subjects.
