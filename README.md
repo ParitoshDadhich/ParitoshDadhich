@@ -1,5 +1,6 @@
 ### Hi there 👋 :pray: 
 ![Visitor Count](https://profile-counter.glitch.me/{ParitoshDadhich}/count.svg)
+![image title](https://rushter.com/counter.svg)
 
 I’m <b>[Paritosh Dadhich](https://www.linkedin.com/in/paritosh-dadhich-391800174/)</b> a Tech Enthusiastic, Coder, Technical - Content Writer, Social Worker, Motivator, and Mentor student for improving their skill sets. I have good knowledge of Data Structures & Algorithms and computer science core subjects.
 I believe choices make us who we are.
