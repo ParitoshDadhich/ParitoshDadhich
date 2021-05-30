@@ -71,6 +71,13 @@ but to be better than I used to be.”
 ― MS Dhoni</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
+
+---
+
+
+### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'> Here's some humor for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Refresh again to view Jokes Card" />
+
  
  
 [linkedin]: https://www.linkedin.com/in/paritosh-dadhich-391800174/
