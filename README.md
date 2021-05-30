@@ -61,6 +61,16 @@ I've worked as a Teaching Assistant at Coding Ninjas India. I also worked as a C
 - [Why students should learn to program and how they can learn](https://pdadhich0481.medium.com/why-students-should-learn-to-program-and-how-they-can-learn-3f7215e28f92)
 <!-- BLOG-POST-LIST:END -->
 
+---
 
+### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> My favorite Quote:
+<a href="https://github.com/marketplace/actions/quote-readme">
+<!--STARTS_HERE_QUOTE_README-->
+• <i>“My goal is not to be better than anyone else,
+but to be better than I used to be.”
+― MS Dhoni</i>
+<!--ENDS_HERE_QUOTE_README-->
+</a>
+ 
  
 [linkedin]: https://www.linkedin.com/in/paritosh-dadhich-391800174/
