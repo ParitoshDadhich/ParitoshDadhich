@@ -7,6 +7,7 @@ I believe choices make us who we are.
 I've worked as a Teaching Assistant at Coding Ninjas India. I also worked as a Campus Ambassador at Coding Ninjas India and a Transition Readiness - Academic Support Volunteer at Make A Difference (NGO).
 
 
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 ## I'm a third-year Computer Science Undergraduate!
 
 * 🔭 I’m currently looking for a new opportunity as a Software Developer!
