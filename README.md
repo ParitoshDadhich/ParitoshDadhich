@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=ParitoshDadhich&style=plastic)
 ### Hi there 👋 :pray: 
 
-<img alt="GIF" src="https://github.com/ParitoshDadhich/ParitoshDadhich/blob/master/code.gif?raw=true" width="500" height="320" />
+<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 
