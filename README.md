@@ -7,11 +7,7 @@
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-
-Hi, I’m <b>[Paritosh Dadhich](https://www.linkedin.com/in/paritosh-dadhich-391800174/)</b> a Tech Enthusiastic, Coder, Technical - Content Writer, Social Worker, Motivator, and Mentor students for improving their skill sets. I have good knowledge of Data Structures & Algorithms & core Computer Ccience subjects.
-
-I've worked as a Teaching Assistant at Coding Ninjas India. I also worked as a Campus Ambassador at Coding Ninjas India and a Transition Readiness - Academic Support Volunteer at Make A Difference (NGO). I believe choices make us who we are.
-
+ 
 ## I'm a third-year Computer Science Undergraduate!
 
 * 🔭 I’m currently looking for a new opportunity as a Software Developer!
