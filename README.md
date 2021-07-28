@@ -8,7 +8,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
  
-## I'm a third-year Computer Science Undergraduate!
+## I'm a fourth-year Computer Science Undergraduate!
 
 * 🔭 I’m currently looking for a new opportunity as a Software Developer!
 * 💬 Would be interested to talk about Java, JavaScript, Problem solving, Web Development and tech-related stuff!
