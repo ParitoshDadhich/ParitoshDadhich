@@ -57,9 +57,7 @@
 
 ---
 
- 📈 my github stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ParitoshDadhich&show_icons=true&theme=gotham" alt="ParitoshDadhich" />
+ 
 
 
 [linkedin]: https://www.linkedin.com/in/paritosh-dadhich-391800174/
