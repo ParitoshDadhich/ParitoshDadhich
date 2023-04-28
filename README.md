@@ -8,10 +8,8 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
  
-## I'm a fourth-year Computer Science Undergraduate!
+## I'm a Software Developer at Qualcomm!
 
-* 🔭 I’m currently looking for a new opportunity as a Software Developer!
-* 💬 Would be interested to learn new skills and work on exciting projects!!
 * 📝 I seldom write articles on [Medium](https://pdadhich0481.medium.com/)
 * 😄 Believe in the idealogy of keeping it simple but elegant :P
 * ⚡ Fun fact: I love to dance and listen to music :)
