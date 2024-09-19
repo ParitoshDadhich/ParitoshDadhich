@@ -12,7 +12,6 @@
 
 * 📝 I seldom write articles on [Medium](https://pdadhich0481.medium.com/)
 * 😄 Believe in the idealogy of keeping it simple but elegant :P
-* ⚡ Fun fact: I love to dance and listen to music :)
 ---
 ### Connect with me:
 <p align="center">
