@@ -8,7 +8,7 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
  
-## I'm a Software Developer at Qualcomm!
+## I'm a Software Engineer at Qualcomm!
 
 * 📝 I seldom write articles on [Medium](https://pdadhich0481.medium.com/)
 * 😄 Believe in the idealogy of keeping it simple but elegant :P
