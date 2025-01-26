@@ -47,8 +47,13 @@
  
  ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 23px> My Latest Blog posts:
 <!-- BLOG-POST-LIST:START -->
-- [Recursion](https://medium.com/star-gazers/recursion-is-easy-6102af8af53f)
-- [Significance of Open Source](https://medium.com/girlscript-bangalore/open-source-c870b6a176eb)
+- [How Enum works with Singleton Design Pattern in Java](https://medium.com/@paritoshdadhich/how-enum-works-with-singleton-design-pattern-in-java-c7766a77592b?source=your_stories_page-------------------------------------)
+- [Singleton Design Pattern: A Comprehensive Guide](https://medium.com/@paritoshdadhich/singleton-design-pattern-a-comprehensive-guide-888d2b575e68?source=your_stories_page-------------------------------------)
+- [Strategy Design Pattern](https://medium.com/@paritoshdadhich/strategy-design-pattern-7e56a15e056b?source=your_stories_page-------------------------------------)
+- Dependency Inversion Principle (DIP): Simplifying Code for Scalability]([https://medium.com/@paritoshdadhich/strategy-design-pattern-7e56a15e056b?source=your_stories_page-------------------------------------](https://medium.com/@paritoshdadhich/dependency-inversion-principle-dip-simplifying-code-for-scalability-205735d40c77?source=your_stories_page-------------------------------------))
+- [Unlocking the Power of SOLID Principles: A Guide to Better Software Design](https://medium.com/@paritoshdadhich/unlocking-the-power-of-solid-principles-a-guide-to-better-software-design-2b3abe05e257?source=your_stories_page-------------------------------------)
+- [A Beginner’s Guide to Content Delivery Networks (CDNs): How They Work and Why They Matter](https://medium.com/@paritoshdadhich/a-beginners-guide-to-content-delivery-networks-cdns-how-they-work-and-why-they-matter-7b27b8fcf0cd?source=your_stories_page-------------------------------------)
+- [Recursion is easy](https://medium.com/star-gazers/recursion-is-easy-6102af8af53f)
 - [Why students should learn to program and how they can learn](https://pdadhich0481.medium.com/why-students-should-learn-to-program-and-how-they-can-learn-3f7215e28f92)
 <!-- BLOG-POST-LIST:END -->
 
